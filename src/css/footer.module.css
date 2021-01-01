@@ -32,4 +32,7 @@
   text-transform: capitalize;
   letter-spacing: var(--mainSpacing);
   line-height: 2;
+  line-height: 2;
+  font-size: 11px;
+  color: white;
 }

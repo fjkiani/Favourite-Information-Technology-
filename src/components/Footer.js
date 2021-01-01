@@ -21,7 +21,7 @@ const Footer = () => {
         copyright &copy; Favoruite Information Technology {new Date().getFullYear()} all
         rights reserved
         <br/>
-        <h5>This site is powered by<a href="https://www.fahadkiani.com" target="_blank">FJK</a></h5>
+        <h5>This site is powered by<br/><a href="https://www.fahadkiani.com" target="_blank">FJK</a></h5>
       </div>
     </footer>
   )

@@ -22,16 +22,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-source-contentful`,
-      options: {
-        spaceId:`ju09qc5o661w`,
-        //  process.env.CONTENTFUL_SPACE_ID,
-        // Learn about environment variables: https://gatsby.dev/env-vars
-        accessToken:`Q8cotbeUR3MKAtsKkt35ixvaHR2k8F6XC1Knaz0PuVY`,
-        // process.env.CONTENTFUL_ACCESS_TOKEN,
-      },
-    },
-    {
       resolve: "gatsby-plugin-robots-txt",
       options: {
         host: "https://gatsby-backroad-project.netlify.com",

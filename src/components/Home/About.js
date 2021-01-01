@@ -33,22 +33,24 @@ const About = () => {
           <p>
             We service clients in the loved town of Bay Ridge, Brooklyn, New York 11209
           </p>
-         
-          <button type="button" className="btn-primary">
-            read more
-          </button>
+          <hr/>
         </article>
       </div>
-      <br/>     <br/>
       <article className={styles.aboutInfo}>
 
       <Title title="Contact Us"/>
+      <div id="contact">
       <div className={styles.contact}> 
+      <div className="btn-white">
+
       <a href = "mailto: Favourite752@hotmail.com">Send Email</a>
+      </div>
+      <br/><br/>
       <h3>Favourite752@hotmail.com</h3>
       <br/>
       <h2> 1+347-574-1586</h2>
 
+        </div>
         </div>
     </article>
     </section>

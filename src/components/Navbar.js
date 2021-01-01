@@ -29,7 +29,7 @@ const Navbar = () => {
                 </AniLink>
                 <Link fade to="/#services">Services
                 </Link>
-                <Link fade to="/tours">Contact
+                <Link fade to="/#contact">Contact
                 </Link>
               </li>
   
